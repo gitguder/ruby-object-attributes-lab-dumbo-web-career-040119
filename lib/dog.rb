@@ -23,6 +23,6 @@ end
 
 class Person
   def iniitialize(job)
-    @job = jod
+    @job = job
   
 end
