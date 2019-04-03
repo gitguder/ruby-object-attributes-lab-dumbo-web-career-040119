@@ -34,7 +34,7 @@ class Person
   end
   
   def name=(aka)
-    name = aka
+    @name = aka
   end
   
   def job
