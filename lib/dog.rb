@@ -20,3 +20,7 @@ class Dog
     @breed = breed
   end
 end
+
+class Person
+  
+end
