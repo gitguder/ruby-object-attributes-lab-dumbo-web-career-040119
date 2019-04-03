@@ -22,6 +22,7 @@ class Dog
 end
 
 class Person
-  def iniitialize()
+  def iniitialize(job)
+    @job = jod
   
 end
