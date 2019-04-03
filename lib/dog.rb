@@ -33,7 +33,7 @@ class Person
     @name
   end
   
-  def name=(nickname)
+  def name=(aka)
     
   end
   
