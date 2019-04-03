@@ -24,5 +24,6 @@ end
 class Person
   def iniitialize(job)
     @job = job
+  end
   
 end
