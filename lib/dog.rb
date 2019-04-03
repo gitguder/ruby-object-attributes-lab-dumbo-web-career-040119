@@ -22,5 +22,6 @@ class Dog
 end
 
 class Person
+  def iniitialize()
   
 end
