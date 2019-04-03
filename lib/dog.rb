@@ -9,7 +9,7 @@ class Dog
   end
   
   def name=(name)
-    @name = name
+    name = name
   end
   
   def breed
@@ -34,7 +34,7 @@ class Person
   end
   
   def name=(aka)
-    
+    name = aka
   end
   
   def job
