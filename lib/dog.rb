@@ -24,7 +24,8 @@ end
 
 
 class Person
-  def iniitialize(job)
+  def iniitialize(name, job)
+    @name = name
     @job = job
   end
   
