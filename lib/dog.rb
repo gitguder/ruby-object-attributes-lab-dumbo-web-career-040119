@@ -33,6 +33,10 @@ class Person
     @name
   end
   
+  def name=(nickname)
+    
+  end
+  
   def job
     @job
   end
